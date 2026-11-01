@@ -2,6 +2,10 @@
 
 Practice the GitHub Flow by creating a branch, committing a change, and merging it through a pull request.
 
+## About Me
+
+I am Afuh, and I aim to consult enterprise-level organizations on how to best leverage AI in their work environments.
+
 ## Goals
 
 - Create and use a repository
